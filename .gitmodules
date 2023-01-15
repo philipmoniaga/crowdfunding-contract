@@ -1,0 +1,7 @@
+[submodule "neighborhood-subgraph"]
+	path = neighborhood-subgraph
+	url = https://github.com/neighborhood-protocol/neighborhood-subgraph.git
+	branch = latest-abis
+[submodule "neighborhood-fe"]
+	path = neighborhood-fe
+	url = https://github.com/neighborhood-protocol/neighborhood-fe.git
